@@ -1,3 +1,7 @@
+
+[日本語バージョン](resume_japanese.md)
+
+
 # Peixin XIAO
 **Date of Birth:** 1999/12/10  
 **Contact:** +81 080-4740-6457 | pxin1999@outlook.com
