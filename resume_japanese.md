@@ -1,4 +1,4 @@
-[English version] ()
+[English version](README.md)
 
 # XIAO Peixin
 **生年月日:** 1999/12/10  
