@@ -29,13 +29,13 @@ October 2017 - June 2021
 
 ## Programming Experiences
 
-### Acceleration of Monte-Carlo Simulation using CUDA and C++
+### [Acceleration of Monte-Carlo Simulation using CUDA and C++](https://github.com/xbx18502/kiwi_ToF_simulation))
 - **Description**: Traditional Monte-Carlo light transport simulations are time-consuming. Utilizing NVIDIA CUDA, this process can be accelerated to more than 20 times faster than before.
 
-### Booking System with Spring Boot & Vue.js
+### [Booking System with Spring Boot & Vue.js](https://github.com/xbx18502/web_app_test)
 - **Description**: A front-end and back-end separation project. The front-end uses the Vue.js framework, and the back-end uses Spring Boot to implement functionalities such as addition, deletion, modification, querying, login and registration, role permission control, etc.
 
-### Multicore Optimization with OpenMP and OpenMPI
+### [Multicore Optimization with OpenMP and OpenMPI](https://github.com/xbx18502/hpc-test)
 - **Description**: Some arithmetic operations, like matrix multiplication, are time-consuming. Using multi-threading and message passing between cores can reduce the time complexity.
 
 ### Run Proxy Service on Linux Server
